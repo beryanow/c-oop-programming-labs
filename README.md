@@ -1,4 +1,4 @@
-NSU OOP Programming Labs (C++)
+# NSU OOP Programming Labs (C++)
 
 Third term:
 1) Phrases Count.
